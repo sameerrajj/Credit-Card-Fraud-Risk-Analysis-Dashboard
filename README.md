@@ -148,12 +148,6 @@ The dashboard helps answer questions such as:
 
 ---
 
-## 🖥️ Dashboard Preview
-
-![Credit Card Fraud Analysis Dashboard](Dashboard.png)
-
----
-
 ## 📂 Repository Structure
 
 ```text
